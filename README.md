@@ -194,7 +194,7 @@ Tested on Windows 10 Enterprise OS (64-bit).
 
 Setup:
 
-* download and install [MS SQL Server 2014 Express](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42299) or greater,
+* download and install [MS SQL Server 2014 Express](https://www.microsoft.com/en-us/download/details.aspx?id=42299) or greater,
 * download and install [MS .NET Framework 4.7.1 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net471) or greater,
 * download and install [MS Visual C++ 2010 (64-bit)](https://www.microsoft.com/en-us/download/details.aspx?id=14632) or greater,
 * download and install [FOCA](https://github.com/ElevenPaths/FOCA/releases).
