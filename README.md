@@ -146,6 +146,10 @@ Optionally, check [Recon-ng](https://github.com/lanmaster53/recon-ng). Nice tool
 
 [pentest-tools.com/information-gathering/google-hacking](https://pentest-tools.com/information-gathering/google-hacking)
 
+[https://null-byte.wonderhowto.com/](https://null-byte.wonderhowto.com/)
+
+[https://hackzism.blogspot.com/](https://hackzism.blogspot.com/)
+
 <p id="dmitry"/>
 
 ### Dmitry
